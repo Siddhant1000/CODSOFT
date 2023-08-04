@@ -1,2 +1,2 @@
 # CODSOFT
-Projects made during the internship
+Projects made duting internship
